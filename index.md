@@ -4,15 +4,21 @@ layout: default
 
 Linkedin Profile.
 
-(https://www.linkedin.com/in/jay-magee-356a2965?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaW1rdruKSxG47cMPnszV%2Bg%3D%3D).
+https://www.linkedin.com/in/jay-magee-356a2965?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaW1rdruKSxG47cMPnszV%2Bg%3D%3D.
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Me.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I'm currently studying Cybersecurity with a focus on network defense, ethical hacking, and information security. With a strong interest in how digital systems can be protected from threats, I'm building a foundation in core topics like threat analysis, vulnerability assessment, and incident response.
+
+I'm exploring tools and platforms such as Wireshark, Kali Linux, Metasploit, and Splunk, and actively working toward certifications like CompTIA Security+, CompTIA A+, CompTIA CySA+, CompTIA Linux
+
+My goal is to transition into a role in cyber defense, security operations, or risk analysis, where I can apply my technical skills to solve real-world security challenges.
+
+Always open to connecting with professionals in the cybersecurity field and learning from industry mentors.
 
 ## Header 2
 
