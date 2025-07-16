@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Linkedin Profile.
 
-[Link to another page](./another-page.html).
+(https://www.linkedin.com/in/jay-magee-356a2965?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaW1rdruKSxG47cMPnszV%2Bg%3D%3D).
 
 There should be whitespace between paragraphs.
 
