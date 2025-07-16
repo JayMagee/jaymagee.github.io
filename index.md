@@ -4,7 +4,8 @@ layout: default
 
 Linkedin Profile.
 
-https://www.linkedin.com/in/jay-magee-356a2965?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaW1rdruKSxG47cMPnszV%2Bg%3D%3D.
+href="https://www.linkedin.com/in/jay-magee-356a2965?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaW1rdruKSxG47cMPnszV%2Bg%3D%3D" target="_blank">
+  Connect with me on LinkedIn
 
 There should be whitespace between paragraphs.
 
