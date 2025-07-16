@@ -18,12 +18,12 @@ My goal is to transition into a role in cyber defense, security operations, or r
 
 Always open to connecting with professionals in the cybersecurity field and learning from industry mentors.
 
-## Certificates
+## General Certificates
 Firefighter - EMT(retired) - Incident Command - Introduction to Exercises - Fundamentals of Emergency Management - Emergency Planning - Leadership and Infulence - Decision Making and Problem Solving 
 Effective Communications - Developing and Managing Volunteers - OSHA-30 - NIMS-700 - NIMS-800 - Electrician -TWIC Card - PPL(student) 
 
 
-### Header 3
+### Computer Certificates
 
 ```js
 // Javascript code with syntax highlighting.
