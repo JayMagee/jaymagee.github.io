@@ -7,9 +7,6 @@ Linkedin Profile.
 <a href="https://www.linkedin.com/in/jay-magee-356a2965?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaW1rdruKSxG47cMPnszV%2Bg%3D%3D" target="_blank">
   Connect with me on LinkedIn
 </a>
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # About Me.
 
@@ -21,11 +18,10 @@ My goal is to transition into a role in cyber defense, security operations, or r
 
 Always open to connecting with professionals in the cybersecurity field and learning from industry mentors.
 
-## Header 2
+## Certificates
+Firefighter - EMT(retired) - Incident Command - Introduction to Exercises - Fundamentals of Emergency Management - Emergency Planning - Leadership and Infulence - Decision Making and Problem Solving 
+Effective Communications - Developing and Managing Volunteers - OSHA-30 - NIMS-700 - NIMS-800 - Electrician -TWIC Card - PPL(student) 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
