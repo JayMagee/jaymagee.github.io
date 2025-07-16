@@ -4,9 +4,9 @@ layout: default
 
 Linkedin Profile.
 
-href="https://www.linkedin.com/in/jay-magee-356a2965?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaW1rdruKSxG47cMPnszV%2Bg%3D%3D" target="_blank">
+<a href="https://www.linkedin.com/in/jay-magee-356a2965?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BaW1rdruKSxG47cMPnszV%2Bg%3D%3D" target="_blank">
   Connect with me on LinkedIn
-
+</a>
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
